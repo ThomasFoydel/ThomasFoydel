@@ -7,20 +7,20 @@
     animations, and the Web Audio API. 
     Let's build something together.
 
-### Current Projects
+## Current Projects
     Right now I'm working on some MERN projects involving audio (drum machines and synthesizers). 
     I'm also studying firebase, typescript, and graphQL.
 
-### Coolest Repos
+## Coolest Repos
 
-##### Clean Break
+### Clean Break
 A [drum machine](http://cleanbreak.herokuapp.com/) built in MERN stack with Tone.js and animations done with react-spring [repo here](https://github.com/ThomasFoydel/drummachine).
 
-##### FM-Synth
+### FM-Synth
 A [frequency modulation synthesizer](http://fm-synth.herokuapp.com/) built in MERN stack with Tone.js and react-spring animations [repo here](https://github.com/ThomasFoydel/fmsynth).
 
-##### Pandatron
+### Pandatron
 A [synthesizer](http://pandatron.herokuapp.com/) built built in MERN stack with the Web Audio API, Pizzicato effects, and react-spring animations [repo here](https://github.com/ThomasFoydel/oscillator-rx).
 
-##### Socket Chat
+### Socket Chat
 A [live chat room app](http://socketchat.xyz/) built in MERN stack with socket.io and react-spring animations [repo here](https://github.com/ThomasFoydel/chat). 
