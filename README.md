@@ -3,4 +3,4 @@
 
 ### Current Projects
     Right now I'm working on some MERN projects involving audio (drum machines and synthesizers). 
-    I'm currently studying firebase.
+    I'm also studying firebase, typescript, and graphQL.
