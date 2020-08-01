@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Thomas</h1>
-<h3 align="center">A passionate frontend developer from Chicago</h3>
+<h3 align="center">A full stack web developer from Chicago</h3>
    Welcome to my GitHub. I work as a substitute TA at the Northwestern University coding bootcamp 
    and as a grader, learning assistant, and tutor for 2U/Trilogy. 
    I build web apps primarily in MERN stack. I've particularly enjoyed web sockets, 
