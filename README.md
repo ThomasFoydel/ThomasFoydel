@@ -6,7 +6,7 @@
    animations, and the Web Audio API. Let's build something together.
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=thomasfoydel" alt="thomasfoydel" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=thomasfoydel" alt="thomasfoydel" /> </p> -->
 
 - 🌱 I’m currently learning **graphQL, Next, and Firebase**
 
