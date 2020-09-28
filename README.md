@@ -7,9 +7,9 @@
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=thomasfoydel" alt="thomasfoydel" /> </p> -->
 
-- 🌱 I’m currently learning **graphQL, Next, and Firebase**
+- 🌱 I’m currently learning **graphQL, Next, WebRTC**
 
-- 🔭 I’m currently working on **MERN projects using the Web Audio API**
+- 🔭 I’m currently working on **MERN projects using WebRTC and the Web Audio API**
 
 <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="20" height="20"/></p>
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thomasfoydel&show_icons=true" alt="thomasfoydel" /> </p> -->
@@ -18,16 +18,16 @@
 
 ### Clean Break
 
-A [drum machine](http://cleanbreak.herokuapp.com/) built in MERN stack with Tone.js and animations done with react-spring [repo here](https://github.com/ThomasFoydel/drummachine).
+A [drum machine](http://cleanbreak.herokuapp.com/) built in MERN stack with Tone.js and animations done with React-Spring [repo here](https://github.com/ThomasFoydel/drummachine).
 
 ### FM-Synth
 
-A [frequency modulation synthesizer](http://fm-synth.herokuapp.com/) built in MERN stack with Tone.js and react-spring animations [repo here](https://github.com/ThomasFoydel/fmsynth).
+A [frequency modulation synthesizer](http://fm-synth.herokuapp.com/) built in MERN stack with Tone.js and React-Spring animations [repo here](https://github.com/ThomasFoydel/fmsynth).
 
 ### Pandatron
 
-A [synthesizer](http://pandatron.herokuapp.com/) built in MERN stack with the Web Audio API, Pizzicato effects, and react-spring animations [repo here](https://github.com/ThomasFoydel/oscillator-rx).
+A [synthesizer](http://pandatron.herokuapp.com/) built in MERN stack with the Web Audio API, Pizzicato effects, and React-Spring animations [repo here](https://github.com/ThomasFoydel/oscillator-rx).
 
 ### Socket Chat
 
-A [live chat room app](http://socketchat.xyz/) built in MERN stack with socket.io and react-spring animations [repo here](https://github.com/ThomasFoydel/chat).
+A [live chat room app](http://socketchat.xyz/) built in MERN stack with socket.io and React-Spring animations [repo here](https://github.com/ThomasFoydel/chat).
