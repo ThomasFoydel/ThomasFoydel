@@ -1,0 +1,53 @@
+<svg fill="none" viewBox="0 0 800 100" width="800" height="100" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				.container {
+					font-family:
+						system-ui,
+						-apple-system,
+						'Segoe UI',
+						Roboto,
+						Helvetica,
+						Arial,
+						sans-serif,
+						'Apple Color Emoji',
+						'Segoe UI Emoji';
+					display: flex;
+					flex-direction: column;
+					align-items: center;
+					justify-content: center;
+					margin: 0;
+					min-width: 400px;
+                    height: 100px;
+					background: linear-gradient(-45deg, #111, #121212);
+					background-size: 600% 400%;
+					border-radius: 10px;
+					color: white;
+					text-align: center;
+				}
+
+				h3 {
+					font-size: 20px;
+					line-height: 1.3;
+					letter-spacing: 5px;
+					text-transform: uppercase;
+					text-shadow:
+						0 1px 0 #efefef,
+						0 2px 0 #efefef,
+						0 12px 5px rgba(0, 0, 0, 0.1);
+				}
+	
+
+			</style>
+			<div class="container">
+			  <h3>FITRA</h3>
+              <p>A realtime videochat app built in MERN stack with Socket.io, Peer.js, react-spring, and more</p>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
+
+
+
+                
