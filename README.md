@@ -2,7 +2,7 @@
     <img src="header.svg" width="800" height="480">
 </a>
 
-<a href="https://github.com/ThomasFoydel/webrtc">
+<a href="https://github.com/ThomasFoydel/fitra">
     <img src="projects/fitra.svg" width="800" height="100" >
 </a>
 
