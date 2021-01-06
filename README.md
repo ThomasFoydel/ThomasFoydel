@@ -20,28 +20,28 @@ so you instead need to use your SVG as an image in the README.md file and wrap t
 -->
 
 <a href="https://thomasfoydel.com">
-    <img src="header.svg" width="800" height="480">
+    <img src="header.svg" width="800" height="470">
 </a>
 
 <a href="https://github.com/ThomasFoydel/fitra">
-    <img src="projects/fitra.svg" width="800" height="100" >
+    <img src="projects/fitra.svg" width="800" height="110" >
 </a>
 
 <a href="https://github.com/ThomasFoydel/drummachine">
-    <img src="projects/cleanbreak.svg" width="800" height="100" >
+    <img src="projects/cleanbreak.svg" width="800" height="110" >
 </a>
 
 <a href="https://github.com/ThomasFoydel/svelte_snake">
-    <img src="projects/sveltesnake.svg" width="800" height="100" >
+    <img src="projects/sveltesnake.svg" width="800" height="110" >
 </a>
 <a href="https://github.com/ThomasFoydel/fmsynth">
-    <img src="projects/fmsynth.svg" width="800" height="100" >
+    <img src="projects/fmsynth.svg" width="800" height="110" >
 </a>
 
 <a href="https://github.com/ThomasFoydel/oscillator-rx">
-    <img src="projects/pandatron.svg" width="800" height="100" >
+    <img src="projects/pandatron.svg" width="800" height="110" >
 </a>
 
 <a href="https://github.com/ThomasFoydel/chat">
-    <img src="projects/socketchat.svg" width="800" height="100" >
+    <img src="projects/socketchat.svg" width="800" height="110" >
 </a>
