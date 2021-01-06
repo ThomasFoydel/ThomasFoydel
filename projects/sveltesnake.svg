@@ -38,7 +38,9 @@
 						0 12px 5px rgba(0, 0, 0, 0.1);
 				}
 	
-
+				p{
+					color: #d5eded;
+				}
 			</style>
 			<div class="container">
 			  <h3>SVELTE SNAKE</h3>

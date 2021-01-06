@@ -37,12 +37,15 @@
 						0 2px 0 #efefef,
 						0 12px 5px rgba(0, 0, 0, 0.1);
 				}
+				p{
+					color: #d5eded;
+				}
 	
 
 			</style>
 			<div class="container">
 			  <h3>FITRA</h3>
-              <p>A realtime videochat app built in MERN stack with Socket.io, Peer.js, react-spring, and more</p>
+              <p>A realtime videochat app built in MERN stack with Socket.io, Peer.js, React-Spring, and more</p>
 			</div>
 		</div>
 	</foreignObject>
