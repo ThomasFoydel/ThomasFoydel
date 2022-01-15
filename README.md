@@ -23,6 +23,10 @@ so you instead need to use your SVG as an image in the README.md file and wrap t
     <img src="header.svg" width="800" height="470">
 </a>
 
+<a href="https://github.com/ThomasFoydel/roshambo">
+    <img src="projects/roshambo.svg" width="800" height="110" >
+</a>
+
 <a href="https://github.com/ThomasFoydel/fitra">
     <img src="projects/fitra.svg" width="800" height="110" >
 </a>
@@ -31,17 +35,18 @@ so you instead need to use your SVG as an image in the README.md file and wrap t
     <img src="projects/cleanbreak.svg" width="800" height="110" >
 </a>
 
-<a href="https://github.com/ThomasFoydel/svelte_snake">
-    <img src="projects/sveltesnake.svg" width="800" height="110" >
-</a>
 <a href="https://github.com/ThomasFoydel/fmsynth">
     <img src="projects/fmsynth.svg" width="800" height="110" >
+</a>
+
+<a href="https://github.com/ThomasFoydel/svelte_snake">
+    <img src="projects/sveltesnake.svg" width="800" height="110" >
 </a>
 
 <a href="https://github.com/ThomasFoydel/pandatron">
     <img src="projects/pandatron.svg" width="800" height="110" >
 </a>
 
-<a href="https://github.com/ThomasFoydel/socketchat">
+<!-- <a href="https://github.com/ThomasFoydel/socketchat">
     <img src="projects/socketchat.svg" width="800" height="110" >
-</a>
+</a> -->
